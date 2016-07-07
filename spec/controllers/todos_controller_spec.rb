@@ -13,6 +13,4 @@ describe TodosController do
     end
   end
 
-
-
 end
